@@ -1,0 +1,1 @@
+cz-fish: https://raw.githubusercontent.com/cz-fish/hrdina/master/data/wordlist.txt
